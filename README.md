@@ -8,13 +8,13 @@
 <img src="https://img.shields.io/badge/Estado-En%20desarrollo-green?style=for-the-badge" alt="Estado">
 </p>
 
-<h2>📌 Descripción</h2>
+<h2>Descripción</h2>
 
 <p>
 Este repositorio contiene una colección de ejercicios prácticos realizados con el lenguaje de programación <strong>Dart</strong>, con el objetivo de aprender y reforzar los conocimientos sobre programación.
 </p>
 
-<h2>📂 Estructura del proyecto</h2>
+<h2Estructura del proyecto</h2>
 
 <pre>
 Ejercicios-Dart/
@@ -23,7 +23,7 @@ Ejercicios-Dart/
 └── Ejercicios de la primera relación
 </pre>
 
-<h2>🎯 Objetivos</h2>
+<h2>Objetivos</h2>
 
 <ul>
 <li>Aprender los fundamentos de Dart.</li>
@@ -33,7 +33,7 @@ Ejercicios-Dart/
 <li>Mejorar las habilidades de programación.</li>
 </ul>
 
-<h2>🛠️ Tecnologías utilizadas</h2>
+<h2>Tecnologías utilizadas</h2>
 
 <ul>
 <li><strong>Dart:</strong> Lenguaje de programación.</li>
@@ -41,16 +41,10 @@ Ejercicios-Dart/
 <li><strong>GitHub:</strong> Gestión y almacenamiento del código.</li>
 </ul>
 
-<h2>👨‍💻 Autor</h2>
+<h2>Autor</h2>
 
 <p>
-<strong>OLEOLE707</strong>
-</p>
-
-<h2>📄 Licencia</h2>
-
-<p>
-Este proyecto tiene fines educativos y de aprendizaje.
+<strong>FirdiPing</strong>
 </p>
 
 <hr>
