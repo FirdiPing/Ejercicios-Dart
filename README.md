@@ -20,7 +20,9 @@ Este repositorio contiene una colección de ejercicios prácticos realizados con
 Ejercicios-Dart/
 │
 └── Relacion1/
-└── Ejercicios de la primera relación
+  └── Ejercicios de la primera relación
+└── Relacion2/
+  └── Ejercicios de la segunda relación
 </pre>
 
 <h2>Objetivos</h2>
