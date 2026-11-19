@@ -1,35 +1,35 @@
 # 🟣 Ejercicios-Dart
 
-<h1 align="center">Ejercicios de Dart 💜</h1>
+\<h1 align="center">Ejercicios de Dart 💜\</h1>
 
-<p align="center">
+\<p align="center">
 &#x20; \<img src="[https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)" alt="Dart">
 &#x20; \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" alt="GitHub">
 &#x20; \<img src="[https://img.shields.io/badge/Estado-En%20desarrollo-green?style=for-the-badge](https://img.shields.io/badge/Estado-En%20desarrollo-green?style=for-the-badge)" alt="Estado">
-</p>
+\</p>
 
 ---
 
-<h2>Descripción</h2>
+\<h2>📖 Descripción\</h2>
 
-<p>
-Repositorio dedicado a la realización y recopilación de ejercicios prácticos de <strong>Dart</strong>, correspondientes a la asignatura de <strong>Programación Multimedia y de Dispositivos Móviles</strong>.
-</p>
+\<p>
+Repositorio dedicado a la realización y recopilación de ejercicios prácticos de \<strong>Dart\</strong>, correspondientes a la asignatura de \<strong>Programación Multimedia y de Dispositivos Móviles\</strong>.
+\</p>
 
-<p>
+\<p>
 Los ejercicios están organizados por relaciones y numerados individualmente para facilitar su consulta, ejecución y seguimiento.
-</p>
+\</p>
 
-<p>
+\<p>
 El objetivo es aprender progresivamente el lenguaje Dart, desde sus conceptos fundamentales hasta el desarrollo de funciones, estructuras de datos, algoritmos y programación recursiva.
-</p>
+\</p>
 
 ---
 
-<h2>Estructura del proyecto</h2>
+\<h2>📂 Estructura del proyecto\</h2>
 
-<pre>
-Ejercicios-Dart
+\<pre>
+Ejercicios-Dart/
 │
 ├── README.md
 │
@@ -51,17 +51,15 @@ Ejercicios-Dart
 │       └── main.dart
 │
 └── Futuras relaciones...
-</pre>
+\</pre>
 
 ---
 
-<h2>Contenido del repositorio</h2>
+\<h2>📚 Contenido del repositorio\</h2>
 
-<h3>🟣 Relación 1 – Ejercicios iniciales de Dart</h3>
+\<h3>🟣 Relación 1 – Ejercicios iniciales de Dart\</h3>
 
-<p>
-Introducción al lenguaje Dart y a sus principales características, trabajando con variables, operadores, estructuras de control, colecciones y diferentes algoritmos.
-</p>
+\<p> Introducción al lenguaje Dart y a sus principales características, trabajando con variables, operadores, estructuras de control, colecciones y diferentes algoritmos. \</p>
 
 | Ejercicio | Contenido                                          |
 | :-------: | -------------------------------------------------- |
@@ -86,7 +84,7 @@ Introducción al lenguaje Dart y a sus principales características, trabajando 
 |     19    | Recorrido de Map: claves y valores                 |
 |     20    | Estadísticas de temperaturas                       |
 
-<h4>Conceptos trabajados</h4>
+\<h4>Conceptos trabajados\</h4>
 
 - Variables y tipos de datos.
 - Operadores y conversiones.
@@ -99,11 +97,9 @@ Introducción al lenguaje Dart y a sus principales características, trabajando 
 
 ---
 
-<h3>🟣 Relación 2 – Ejercicios con funciones</h3>
+\<h3>🟣 Relación 2 – Ejercicios con funciones\</h3>
 
-<p>
-Profundización en la creación, utilización y reutilización de funciones, trabajando con parámetros, valores de retorno, algoritmos matemáticos, recursividad y librerías propias.
-</p>
+\<p> Profundización en la creación, utilización y reutilización de funciones, trabajando con parámetros, valores de retorno, algoritmos matemáticos, recursividad y librerías propias. \</p>
 
 | Ejercicio | Contenido                                        |
 | :-------: | ------------------------------------------------ |
@@ -128,7 +124,7 @@ Profundización en la creación, utilización y reutilización de funciones, tra
 |     19    | Generación de listas de números primos           |
 |     20    | Creación e importación de librerías de funciones |
 
-<h4>Conceptos trabajados</h4>
+\<h4>Conceptos trabajados\</h4>
 
 - Declaración y llamada de funciones.
 - Parámetros posicionales y opcionales.
@@ -143,58 +139,79 @@ Profundización en la creación, utilización y reutilización de funciones, tra
 
 ---
 
-<h2>Objetivos</h2>
+\<h2>🎯 Objetivos\</h2>
 
-<ul>
-&#x20; <li>Aprender los fundamentos del lenguaje Dart.</li>
-&#x20; <li>Practicar la sintaxis y las características del lenguaje.</li>
-&#x20; <li>Desarrollar la lógica de programación.</li>
-&#x20; <li>Resolver diferentes problemas mediante algoritmos.</li>
-&#x20; <li>Aprender a crear y utilizar funciones.</li>
-&#x20; <li>Trabajar con estructuras de datos como listas y mapas.</li>
-&#x20; <li>Comprender la programación recursiva.</li>
-&#x20; <li>Mejorar las habilidades de programación y organización del código.</li>
-</ul>
-
----
-
-<h2>Tecnologías utilizadas</h2>
-
-<ul>
-&#x20; <li><strong>Dart:</strong> Lenguaje de programación utilizado para desarrollar los ejercicios.</li>
-&#x20; <li><strong>Dart SDK:</strong> Herramientas necesarias para ejecutar los programas.</li>
-&#x20; <li><strong>Visual Studio Code:</strong> Editor de código.</li>
-&#x20; <li><strong>Git:</strong> Sistema de control de versiones.</li>
-&#x20; <li><strong>GitHub:</strong> Plataforma de almacenamiento y gestión del repositorio.</li>
-</ul>
-
----
-<h2>Documentación oficial\</h2>
-
-<ul>   
-  <li><a href="[https://dart.dev/](https://dart.dev/)">Dart – Página oficial</a></li>   
-  <li><a href="[https://dart.dev/language](https://dart.dev/language)">Dart – Lenguaje</a></li>   
-  <li><a href="[https://dart.dev/libraries](https://dart.dev/libraries)">Dart – Librerías</a></li>   
-  <li><a href="[https://api.dart.dev/](https://api.dart.dev/)">Dart – API Reference</a></li> 
-</ul>
+\<ul>
+&#x20; \<li>Aprender los fundamentos del lenguaje Dart.\</li>
+&#x20; \<li>Practicar la sintaxis y las características del lenguaje.\</li>
+&#x20; \<li>Desarrollar la lógica de programación.\</li>
+&#x20; \<li>Resolver diferentes problemas mediante algoritmos.\</li>
+&#x20; \<li>Aprender a crear y utilizar funciones.\</li>
+&#x20; \<li>Trabajar con estructuras de datos como listas y mapas.\</li>
+&#x20; \<li>Comprender la programación recursiva.\</li>
+&#x20; \<li>Mejorar las habilidades de programación y organización del código.\</li>
+\</ul>
 
 ---
 
-<h2>Autor</h2>
+\<h2>🛠️ Tecnologías utilizadas\</h2>
 
-<p>
-<strong>FirdiPing</strong>
-</p>
+\<ul>
+&#x20; \<li>\<strong>Dart:\</strong> Lenguaje de programación utilizado para desarrollar los ejercicios.\</li>
+&#x20; \<li>\<strong>Dart SDK:\</strong> Herramientas necesarias para ejecutar los programas.\</li>
+&#x20; \<li>\<strong>Visual Studio Code:\</strong> Editor de código.\</li>
+&#x20; \<li>\<strong>Git:\</strong> Sistema de control de versiones.\</li>
+&#x20; \<li>\<strong>GitHub:\</strong> Plataforma de almacenamiento y gestión del repositorio.\</li>
+\</ul>
 
 ---
 
-<h2>Estado del repositorio</h2>
+\<h2>▶️ Ejecución de los ejercicios\</h2>
 
-<p> 
-  <img src="[https://img.shields.io/badge/Estado-En%20desarrollo-green?style=flat-square](https://img.shields.io/badge/Estado-En%20desarrollo-green?style=flat-square)" alt="En desarrollo"> </p>
+\<p> Para ejecutar los ejercicios es necesario tener instalado el \<strong>Dart SDK\</strong>. \</p>
 
-<p> Repositorio en constante actualización. Se irán incorporando nuevas relaciones, ejercicios y prácticas a medida que avance el aprendizaje de Dart. </p>
+\<ol>   \<li>Clonar o descargar este repositorio.\</li>   \<li>Abrir la carpeta del repositorio en Visual Studio Code.\</li>   \<li>Acceder a la carpeta de la relación correspondiente.\</li>   \<li>Abrir el archivo Dart que se quiera ejecutar.\</li>   \<li>Ejecutar el programa desde la terminal.\</li> \</ol>
 
-<hr>
+**Ejemplo de ejecución:**
 
-<p align="center">&#x20; 💜 Desarrollado para aprender, practicar y mejorar en Dart.</p>
+```bash
+dart 1fechaHora.dart
+```
+
+También se puede ejecutar cualquier otro ejercicio indicando su nombre:
+
+```bash
+dart 6sumaNaturales.dart
+```
+
+---
+
+\<h2>📚 Documentación oficial\</h2>
+
+\<ul>   \<li>\<a href="[https://dart.dev/](https://dart.dev/)">Dart – Página oficial\</a>\</li>   \<li>\<a href="[https://dart.dev/language](https://dart.dev/language)">Dart – Lenguaje\</a>\</li>   \<li>\<a href="[https://dart.dev/libraries](https://dart.dev/libraries)">Dart – Librerías\</a>\</li>   \<li>\<a href="[https://api.dart.dev/](https://api.dart.dev/)">Dart – API Reference\</a>\</li> \</ul>
+
+---
+
+\<h2>👨‍💻 Autor\</h2>
+
+\<p>
+\<strong>FirdiPing\</strong>
+\</p>
+
+---
+
+\<h2>🚀 Estado del repositorio\</h2>
+
+\<p> \<img src="[https://img.shields.io/badge/Estado-En%20desarrollo-green?style=flat-square](https://img.shields.io/badge/Estado-En%20desarrollo-green?style=flat-square)" alt="En desarrollo"> \</p>
+
+\<p> Repositorio en constante actualización. Se irán incorporando nuevas relaciones, ejercicios y prácticas a medida que avance el aprendizaje de Dart. \</p>
+
+\<hr>
+
+\<p align="center">
+&#x20; 💜 Desarrollado para aprender, practicar y mejorar en Dart.
+\</p>
+
+\<p align="center">
+&#x20; \<strong>Happy coding! 🐦\</strong>
+\</p>
